@@ -4,7 +4,6 @@
 
 int	main(void)
 {
-	int	tab[100000];
 	int ra = 1;
 	int rb = 1;
 	int r;
